@@ -1,0 +1,2 @@
+to run the website use this command only
+& "C:/Program Files/Python311/python.exe" -m streamlit run "e:/ParkinsonDisease/kaam ki cheez/kaam ki cheez/Parkonix-master/streamlitApp.py"
