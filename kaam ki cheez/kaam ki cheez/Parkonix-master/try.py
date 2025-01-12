@@ -79,7 +79,7 @@ st.warning("Warning: Do not click Submit Sketch button before drawing spiral on 
 
 # Sidebar configurations
 with st.sidebar:
-    img = Image.open("./Images/parkinson_disease_detection.jpg")
+    img = Image.open("c:/Users/SanjanaRajKumari/OneDrive/Documents/GitHub/ParkinsonDisease/kaam ki cheez/kaam ki cheez/Parkonix-master/Images/parkinson_disease_detection.jpg")
     st.image(img)
     st.subheader("About Parkonix")
     link_text = "Distinguishing Different Stages of Parkinson’s Disease Using Composite Index of Speed and Pen-Pressure of Sketching a Spiral"
@@ -88,7 +88,7 @@ with st.sidebar:
     st.markdown(f"[{link_text}]({link_url})")
 
     st.header("Dataset")
-    img = Image.open("./Images/healthy_diseased_classification.jpeg")
+    img = Image.open("c:/Users/SanjanaRajKumari/OneDrive/Documents/GitHub/ParkinsonDisease/kaam ki cheez/kaam ki cheez/Parkonix-master/Images/parkinson_disease_detection.jpg")
     st.image(img)
 
     st.header("Drawing Canvas Configurations")
